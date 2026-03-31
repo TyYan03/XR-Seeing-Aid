@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae5a46bda3295124c99b0e6537ac7252, type: 3}
   m_Name: Voice
   m_EditorClassIdentifier: 
-  _clientAccessToken: MK2G3RHIIJ23VMKLL4XRMYWGM23D7AJZ
+  _clientAccessToken: null
   editorVersionTag: 
   buildVersionTag: 
   _appInfo:
     name: ece496
-    id: 1642076470509106
+    id: null
     lang: en
     isPrivate: 1
     createdAt: 2025-11-23T23:33:08-0800
